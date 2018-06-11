@@ -2,7 +2,7 @@
 
 ### The long and winding road
 
----?image=assets/image/infrastructure.jpg
+---?image=assets/image/infrastructure2.jpg
 
 ### Infrastructure
 
