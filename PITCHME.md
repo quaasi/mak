@@ -12,7 +12,15 @@
 
 @fa[microphone gp-tip](Press S for Speaker Notes)
 
----?image=assets/image/infrastructure.jpg&opacity=100
+---
+
+<br>
+<div class="left">
+    ![Infrastructure](assets/image/infrastructure.jpg)
+</div>
+<div class="right">
+    ![Infrastructure](assets/image/infrastructure.jpg)
+</div>
 
 ---
 
