@@ -16,7 +16,7 @@
 
 <br>
 <div class="left">
-    ![Infrastructure](assets/image/infrastructure.jpg)
+    ![Infrastructure](/assets/image/infrastructure.jpg)
 </div>
 <div class="right">
     ![Infrastructure](assets/image/infrastructure.jpg)
