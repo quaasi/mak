@@ -1,4 +1,4 @@
-# Makerist - Infrastructure & Architecture
+## Makerist - Infrastructure & Architecture
 
 ### The long and winding road
 
@@ -11,6 +11,8 @@
 @fa[arrows gp-tip](Press F to go Fullscreen)
 
 @fa[microphone gp-tip](Press S for Speaker Notes)
+
+---?image=assets/image/infrastructure.jpg&opacity=100
 
 ---
 
