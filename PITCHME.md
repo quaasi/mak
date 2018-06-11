@@ -2,25 +2,12 @@
 
 ### The long and winding road
 
----
-
-## Tips!
-
-<br>
-
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
+---?image=assets/image/infrastructure.jpg
+### Infrastructure
 
 ---
-
-<br>
-<div class="left">
-    ![Infrastructure](/assets/image/infrastructure.jpg)
-</div>
-<div class="right">
-    ![Infrastructure](assets/image/infrastructure.jpg)
-</div>
+---?image=assets/image/architecture.jpg
+### Architecture
 
 ---
 
