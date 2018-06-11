@@ -3,10 +3,11 @@
 ### The long and winding road
 
 ---?image=assets/image/infrastructure.jpg
+
 ### Infrastructure
 
----
 ---?image=assets/image/architecture.jpg
+
 ### Architecture
 
 ---
