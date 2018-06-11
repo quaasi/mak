@@ -10,10 +10,10 @@
 
 ### What is Infrastructure?
 
-- servers running the Makerist application
-- how they are installed and connected to other services (database, file storage, ...)
-- in normal mode around 7 servers running in parallel
-- during a sale period it's about 40
+- servers running the Makerist application |
+- how they are installed and connected to other services (database, file storage, ...) |
+- in normal mode around 7 servers running in parallel |
+- during a sale period it's about 40 |
 
 ---
 
